@@ -27,7 +27,7 @@
     list-style: none;
 }
 
-.btn_a {
+.btn_a{
     margin: 0px 20px;
     text-decoration: none;
     font-family: 'Mulish';
@@ -39,16 +39,6 @@
     opacity: 0.5;
 }
 
-.btn_a_main {
-    margin: 0px 20px;
-    text-decoration: none;
-    font-family: 'Mulish';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 23px;
-    color: #1F1534;
-}
 
 /* Main body */
 
